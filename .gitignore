@@ -1,0 +1,9 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+venv/
+dist/
+.pytest_cache/
+agent_definitions/
+nul
