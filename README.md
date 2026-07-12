@@ -196,8 +196,3 @@ cd backend
 pytest   # 99 tests — pipeline nodes, routes, services, end-to-end graph execution
 ```
 
----
-
-## License
-
-MIT
